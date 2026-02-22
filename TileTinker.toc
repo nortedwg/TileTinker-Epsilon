@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: TileTinker
+## Author: Norte (Discord: norte.m2) (X.com/norte_m2)
+## Notes: ¡Construir con Tiles ahora es sencillo!|n|n|cffffd200Version:|r 1.0.1
+## Version: 1.0.1
+# Files
+TileTinker.lua
